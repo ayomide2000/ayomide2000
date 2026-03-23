@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ayomide2000
-- 👀 I’m interested in football,music and a nice time
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 08183456119 or ayomide2000@icloud.com
+Machine Learning Engineer | Kaggle Competitor (Top ~115)
 
-<!---
-ayomide2000/ayomide2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build high-performance machine learning models for tabular data, specializing in regression, feature engineering, and ensembling.
+
+🔭 Currently working on advanced regression and real-world ML projects  
+🌱 Focused on production ML systems and deployment  
+💞️ Open to collaborating on data science and ML projects  
+
+📫 Contact: paperrchaser77@gmail.com
