@@ -1,3 +1,14 @@
+
+# Ayomide Agbaje | Machine Learning Engineer | Kaggle Top ~115
+
+I build high-performance ML models for tabular data, specializing in regression, feature engineering, and ensembling.  
+
+🔭 Currently working on advanced regression projects  
+🌱 Focused on production ML systems and deployment  
+💞️ Open to collaborating on ML/data science projects  
+
+📫 Contact: paperrchaser77@gmail.com  
+🔗 Kaggle: https://www.kaggle.com/ayomide2000
 # Gambit Dataset for Advanced Regression
 
 ## Overview
